@@ -37,9 +37,9 @@ The goal of this task is to understand what makes a password strong, evaluate it
 Password strength is a vital component of cybersecurity. Strong passwords are long, complex, and unique, making them significantly harder for attackers to crack. Testing passwords with online tools helps identify weaknesses and improve security. Combining strong passwords with MFA and a password manager offers the best protection against modern cyber threats.
 
 ## **Screenshots**
-[passwordmeter.com](./screenshots/image1.png)
+[example image 1](./screenshots/image1.png) - *image with weak password*
 
-[passwordmeter.com](./screenshots/image2.png)
+[example image 2](./screenshots/image2.png) - *image with strong password*
 
 ## **Tools Used**
 - [passwordmeter.com](https://passwordmeter.com)
